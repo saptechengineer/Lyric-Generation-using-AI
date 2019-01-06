@@ -60,3 +60,6 @@ If you want to give it your own sentence, then open the ****main.py**** program 
  That's it.
  
  Please do ****STAR**** this Repo if you think it helped you.
+ 
+ ## credit:
+ https://medium.com/@ivanliljeqvist/using-ai-to-generate-lyrics-5aba7950903
